@@ -2,11 +2,15 @@
 
 ## Description
 
-Tab menu sample html and css  by Bootstrap.
+Tab menu sample html and css by Bootstrap.
+
+## Execution
+
+[Here.](https://hiroshikuze.github.io/bootstrap_tab_menu_sample/)
 
 ## LICENCE
 
-MIT License.
+[MIT License.](./LICENSE)
 
 ## Author
 
