@@ -1,0 +1,14 @@
+body {
+    margin: 0px 0px 0px 0px;
+    background-color: #ffffcc;
+    font-family: "Yu Gothic", Osaka, meiryo, "ms pgothic", arial, san-serif;
+}
+h1 {
+    color: green;
+}
+#menu {
+    margin: 32px 0px 16px 0px;
+}
+#menu > ul.nav.nav-tabs > li.nav-item > a.nav-link.active {
+    background: linear-gradient(#FFFF99, #FFFBCD);
+}
