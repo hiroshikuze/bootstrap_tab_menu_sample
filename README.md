@@ -8,6 +8,10 @@ Tab menu sample html and css by Bootstrap.
 
 [Here.](https://hiroshikuze.github.io/bootstrap_tab_menu_sample/)
 
+## Reference
+
+[とほほのBootstrap 4入門 - ナビ](http://www.tohoho-web.com/bootstrap/navs.html "とほほのBootstrap 4入門 - ナビ")
+
 ## LICENCE
 
 [MIT License.](./LICENSE)
